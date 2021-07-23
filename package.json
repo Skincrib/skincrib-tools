@@ -1,0 +1,19 @@
+{
+  "name": "skincrib-tools",
+  "version": "1.0.0",
+  "description": "A bunch of tools to automate the trader experience on Skincrib!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skincrib/skincrib-tools.git"
+  },
+  "author": "sampli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skincrib/skincrib-tools/issues"
+  },
+  "homepage": "https://github.com/Skincrib/skincrib-tools#readme"
+}
