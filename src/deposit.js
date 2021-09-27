@@ -44,7 +44,7 @@ market.on('authenticated', (message) => {
         .then((listings) => {
             //show the listings.
             listings.forEach(listing => {
-                console.log(`Listed ${listing.listing.item.name} for $${listing.listing.price / l100}`);
+                console.log(`Listed ${listing.listing.item.name} for $${listing.listing.price / 100}`);
             });
         }, (err) => {
             console.error(err);
